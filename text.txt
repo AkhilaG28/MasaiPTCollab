@@ -1,3 +1,27 @@
 Akhila 
 
 Chandra 
+
+create a branch =>
+
+git branch <branchName>
+
+signupPage => signup
+
+git branch signup_page
+
+git branch --list => list all branches in this repo
+
+We're in master branch
+
+git checkout <branchName>
+
+3 members per project => Ayush, Sahid, Ansari
+1 repo is enough
+Ansari created repo
+
+Ayush login page
+
+Sahid homepage
+
+
